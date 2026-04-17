@@ -10,9 +10,9 @@
 
 ---
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Daltongit&show_icons=true&hide_border=true&bg_color=020c09&title_color=7fffd4&text_color=4db89e&icon_color=2db88a&rank_icon=github&hide_title=true" width="400"/>
-
 ## &nbsp;✦ &nbsp;Sobre Mí
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Daltongit&show_icons=true&hide_border=true&bg_color=020c09&title_color=7fffd4&text_color=4db89e&icon_color=2db88a&rank_icon=github&hide_title=true" width="380"/>
 
 <p>
   Soy <strong>Dalton</strong>, un desarrollador apasionado por crear<br/>
