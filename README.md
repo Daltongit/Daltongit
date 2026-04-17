@@ -12,28 +12,26 @@
 
 ## &nbsp;✦ &nbsp;Sobre Mí
 
-<table>
-  <tr>
-    <td width="60%" valign="middle" style="border: none;">
-      <p>
-        Soy <strong>Dalton</strong>, un desarrollador apasionado por crear soluciones integrales, desde interfaces fluidas hasta hardware interactivo.
-      </p>
-      <p>
-        Vivo entre el desarrollo móvil, el backend y la robótica.<br/>
-        Creo que el código bien escrito es un arte en sí mismo.
-      </p>
-      <ul>
-        <li>🌱 &nbsp;Explorando constantemente con Flutter, Node.js y Python.</li>
-        <li>🔭 &nbsp;Construyendo experiencias inmersivas y sistemas IoT.</li>
-        <li>⚔️ &nbsp;Inspirado por el diseño minimalista, la lógica limpia y la accesibilidad.</li>
-        <li>📍 &nbsp;Tulcán, Ecuador</li>
-      </ul>
-    </td>
-    <td width="40%" valign="middle" align="center" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api?username=Daltongit&show_icons=true&hide_border=true&bg_color=020c09&title_color=7fffd4&text_color=4db89e&icon_color=2db88a&rank_icon=github&hide_title=true" width="100%"/>
-    </td>
-  </tr>
-</table>
+<a href="https://github.com/Daltongit">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Daltongit&show_icons=true&hide_border=true&bg_color=020c09&title_color=7fffd4&text_color=4db89e&icon_color=2db88a&rank_icon=github&hide_title=true" width="380" alt="GitHub Stats" />
+</a>
+
+<p>
+  Soy <strong>Dalton</strong>, un desarrollador apasionado por crear<br/>
+  soluciones integrales, desde interfaces fluidas hasta hardware interactivo.
+</p>
+<p>
+  Vivo entre el desarrollo móvil, el backend y la robótica.<br/>
+  Creo que el código bien escrito es un arte en sí mismo.
+</p>
+
+- 🌱 &nbsp;Explorando constantemente con Flutter, Node.js y Python.
+- 🔭 &nbsp;Construyendo experiencias inmersivas y sistemas IoT.
+- ⚔️ &nbsp;Inspirado por el diseño minimalista, la lógica limpia y la accesibilidad.
+- 📍 &nbsp;Tulcán, Ecuador
+
+<br clear="all"/>
+<br/>
 
 ---
 
@@ -67,10 +65,10 @@
 
 <table>
   <tr>
-    <td>
+    <td style="border: none;">
       <img src="https://github-readme-stats.vercel.app/api?username=Daltongit&show_icons=true&hide_border=true&bg_color=020c09&title_color=7fffd4&text_color=4db89e&icon_color=2db88a&rank_icon=github" alt="Dalton's GitHub stats"/>
     </td>
-    <td>
+    <td style="border: none;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daltongit&layout=compact&hide_border=true&bg_color=020c09&title_color=7fffd4&text_color=4db89e&icon_color=2db88a&langs_count=8" alt="Top Languages"/>
     </td>
   </tr>
