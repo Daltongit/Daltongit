@@ -12,21 +12,28 @@
 
 ## &nbsp;✦ &nbsp;Sobre Mí
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Daltongit&show_icons=true&hide_border=true&bg_color=020c09&title_color=7fffd4&text_color=4db89e&icon_color=2db88a&rank_icon=github&hide_title=true" width="380"/>
-
-<p>
-  Soy <strong>Dalton</strong>, un desarrollador apasionado por crear<br/>
-  soluciones integrales, desde interfaces fluidas hasta hardware interactivo.<br/><br/>
-  Vivo entre el desarrollo móvil, el backend y la robótica.<br/>
-  Creo que el código bien escrito es un arte en sí mismo.
-</p>
-
-- 🌱 &nbsp;Explorando constantemente con Flutter, Node.js y Python.
-- 🔭 &nbsp;Construyendo experiencias inmersivas y sistemas IoT.
-- ⚔️ &nbsp;Inspirado por el diseño minimalista, la lógica limpia y la accesibilidad.
-- 📍 &nbsp;Ecuador
-
-<br clear="right"/>
+<table>
+  <tr>
+    <td width="60%" valign="middle" style="border: none;">
+      <p>
+        Soy <strong>Dalton</strong>, un desarrollador apasionado por crear soluciones integrales, desde interfaces fluidas hasta hardware interactivo.
+      </p>
+      <p>
+        Vivo entre el desarrollo móvil, el backend y la robótica.<br/>
+        Creo que el código bien escrito es un arte en sí mismo.
+      </p>
+      <ul>
+        <li>🌱 &nbsp;Explorando constantemente con Flutter, Node.js y Python.</li>
+        <li>🔭 &nbsp;Construyendo experiencias inmersivas y sistemas IoT.</li>
+        <li>⚔️ &nbsp;Inspirado por el diseño minimalista, la lógica limpia y la accesibilidad.</li>
+        <li>📍 &nbsp;Tulcán, Ecuador</li>
+      </ul>
+    </td>
+    <td width="40%" valign="middle" align="center" style="border: none;">
+      <img src="https://github-readme-stats.vercel.app/api?username=Daltongit&show_icons=true&hide_border=true&bg_color=020c09&title_color=7fffd4&text_color=4db89e&icon_color=2db88a&rank_icon=github&hide_title=true" width="100%"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -82,8 +89,8 @@
 <div align="center">
 <br/>
 
-<a href="https://github.com/Daltongit/Astra-Sphere">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Daltongit&repo=Astra-Sphere&bg_color=020c09&title_color=7fffd4&text_color=4db89e&icon_color=2db88a&border_color=1a5040&hide_border=false" alt="Astra-Sphere"/>
+<a href="https://github.com/Daltongit/Akira">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Daltongit&repo=Akira&bg_color=020c09&title_color=7fffd4&text_color=4db89e&icon_color=2db88a&border_color=1a5040&hide_border=false" alt="Akira"/>
 </a>
 &nbsp;
 <a href="https://github.com/Daltongit/FocusFlow">
